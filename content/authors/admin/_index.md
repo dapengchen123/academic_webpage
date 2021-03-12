@@ -1,6 +1,6 @@
 ---
 title: Dapeng CHEN
-role: Professor of Artificial Intelligence
+role: Computer Vision / Machine Learning Researcher 
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
